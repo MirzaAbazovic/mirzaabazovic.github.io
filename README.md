@@ -1,3 +1,3 @@
 # GitHub Page
 
-http://mirzaabazovic.github.io/
+https://mirzaabazovic.github.io/
